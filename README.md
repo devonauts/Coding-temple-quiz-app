@@ -28,11 +28,11 @@ A fun mini quiz application built with **React** and **Vite**, using the **Open 
 - [Open Trivia Database API](https://opentdb.com/)
 
 ---
-
+```bash
 ## ⚙️ Getting Started
 
-### 1️⃣ Clone the repo
-```bash
+1️⃣ Clone the repo
+
 git clone https://github.com/devonauts/Coding-temple-quiz-app.git
 cd quiz-app
 2️⃣ Install dependencies
