@@ -1,0 +1,53 @@
+.app-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.home-page,
+.question-form,
+.results-section {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-top: 1rem;
+  background: #f9f9f9;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background: #008cff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0070e0;
+}
+
+ul {
+  text-align: left;
+  margin-top: 1rem;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+* {
+    box-sizing: border-box;
+    
+    justify-content: center;
+    align-items: center;
+}
